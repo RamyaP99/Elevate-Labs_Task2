@@ -54,3 +54,26 @@ The dashboard includes five key visualizations, each addressing a specific busin
     Insight: West (~$700K sales, ~$100K profit) and East lead; Central lags ($30K profit).
    
     Recommendation: Focus resources on West/East; optimize Central pricing.
+
+#### Summary Slide
+* KPI Metrics:
+   Total Sales: ~$2.3M
+
+   Total Profit: ~$300K
+
+   Total Orders: ~10,000
+
+   Average Discount: ~15%
+* Action Plan:
+
+   Enhance Q4 marketing for Technology products in West/East.
+
+   Prioritize Technology inventory; reduce Tables stock.
+
+   Cap discounts at 20% for Furniture/Office Supplies.
+
+   Strengthen Consumer loyalty; upsell Corporate, grow Home Office.
+
+   Optimize pricing in Central region.
+
+* Context: Combines temporal, product, pricing, customer, and regional insights for strategic decision-making.
