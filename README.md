@@ -18,7 +18,7 @@ Present data-driven business recommendations
 The dashboard includes five key visualizations, each addressing a specific business question:
 1) Sales and Profit Trends (Line Chart):
    Purpose: Tracks sales and profit over time (2014-2018, by Quarter).
-   Insight: Sales peak in Q4 (~30-40% of $2.3M), but profit (~$300K) dips due to discounts.
+   Insight: Sales peak in Q4 (30-40% of $2.3M), but profit (~$300K) dips due to discounts.
    Recommendation: Boost Q4 Technology campaigns; optimize discounts.
 2) Profit Contribution by Product Category and Sub-Category (Stacked Bar Chart):
    Purpose: Shows profit by Category (e.g., Technology) and Sub-Category (e.g., Phones).
