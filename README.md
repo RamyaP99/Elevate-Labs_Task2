@@ -57,6 +57,7 @@ The dashboard includes five key visualizations, each addressing a specific busin
 
 #### Summary Slide
 * KPI Metrics:
+  
    Total Sales: ~$2.3M
 
    Total Profit: ~$300K
