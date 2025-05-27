@@ -49,8 +49,8 @@ The dashboard includes five key visualizations, each addressing a specific busin
    
 10) Regional Performance: Sales vs. Profit (Clustered Bar Chart):
     
-   Purpose: Compares sales and profit across Regions (West, East, Central, South).
+    Purpose: Compares sales and profit across Regions (West, East, Central, South).
    
-   Insight: West (~$700K sales, ~$100K profit) and East lead; Central lags ($30K profit).
+    Insight: West (~$700K sales, ~$100K profit) and East lead; Central lags ($30K profit).
    
-   Recommendation: Focus resources on West/East; optimize Central pricing.
+    Recommendation: Focus resources on West/East; optimize Central pricing.
