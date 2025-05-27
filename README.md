@@ -43,7 +43,7 @@ The dashboard includes five key visualizations, each addressing a specific busin
    
    Purpose: Shows sales distribution across Consumer, Corporate, and Home Office segments.
    
-   Insight: Consumer drives ~50% of sales (~$1.2M), Corporate ~30%, Home Office ~20%.
+   Insight: Consumer drives 50% of sales (~$1.2M), Corporate ~30%, Home Office ~20%.
    
    Recommendation: Target Consumer loyalty; upsell Corporate, grow Home Office.
    
